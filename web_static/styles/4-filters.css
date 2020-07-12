@@ -21,4 +21,9 @@
 	border-width: 0px;
 	position: absolute;
 	right: 30px;
+
+}
+
+.filters button:hover {
+	opacity: 90%;
 }
